@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class PostsNew extends Component {
     render() {
         return(
-            <div>CReate Form</div>
+            <div>Create Form</div>
         )
     }
 }
